@@ -1,3 +1,5 @@
+# Tutorial found at: https://first-web-scraper.readthedocs.io/en/latest/
+
 import csv
 import requests
 from BeautifulSoup import BeautifulSoup
